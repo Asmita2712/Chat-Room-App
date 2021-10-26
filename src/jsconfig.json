@@ -1,0 +1,9 @@
+/// <reference path='./path/to/typings' />
+
+{
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "checkJs": true,
+        "jsx": "react"
+    }
+}
